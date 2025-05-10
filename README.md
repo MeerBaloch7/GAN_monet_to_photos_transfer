@@ -25,6 +25,13 @@ The goal is to explore **Generative Adversarial Networks (GANs)** for **style tr
 
 ## 🧰 Dataset & Preprocessing
 
+### 📥 Download Dataset
+
+Run the following script to automatically download and extract the Monet dataset:
+
+```bash
+python download_data.py;
+```
 - ~300 Monet paintings and ~7000 landscape photos were used.
 - Preprocessing:
   - Resized all images to **256×256**.
