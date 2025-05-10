@@ -1,0 +1,18 @@
+# Core ML/DL
+tensorflow==2.14.0
+numpy
+matplotlib
+Pillow
+
+# Dataset download utility (Google Drive)
+gdown
+
+# Image handling
+opencv-python
+
+# Optional (for FID calculation)
+scipy
+tensorflow_hub
+
+# Jupyter (if using notebooks)
+notebook
