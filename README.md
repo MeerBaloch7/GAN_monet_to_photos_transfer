@@ -97,7 +97,7 @@ This project demonstrates a practical and effective use of **CycleGAN** for **ar
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/monet-style-transfer-cyclegan.git
+git clone https://github.com/MeerBaloch7/GAN_monet_to_photos_transfer.git
 cd monet-style-transfer-cyclegan
 
 # Install dependencies
